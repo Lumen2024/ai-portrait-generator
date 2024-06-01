@@ -1,28 +1,13 @@
 # [ai portrait generate](https://www.aiportrait.art/)
 
-**You can sponsor me to support my open source work 💖 [sponsor](https://github.com/sponsors/vijishmadhavan?o=sd&sc=t)**
+**You can try  my  work in [here](https://www.aiportrait.art/)**
 
-The main aim of the project is to create amazing line art portraits. 
+The main aim of the project is to create amazing ai portrait generate. 
 
 # Exciting update
 
-#### ControlNet + ArtLine for portraits, Try colab!!
-
-[<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/vijishmadhavan/ArtLine/blob/main/ControlNet_%2BArtLine_.ipynb)
 
 
-## ControlNet + ArtLine
-
-The model is designed to take in a portrait image and a corresponding written instruction, and then use that instruction to adjust the style of the image.
-
-
-![model](https://i.imgur.com/QNCw4CN.jpg)
-
-![model](https://i.imgur.com/jJuF3UN.jpg)
-
-![model](https://i.imgur.com/zizgSTf.jpg)
-
-![Shahrukh](https://i.imgur.com/WvKsYXj.jpg)
 
 
 ## Highlights
@@ -147,11 +132,7 @@ This project is built around the wonderful Fast.AI library.
 
 - I'm not a coder, bear with me for the bad code and documentation. Will make sure that I improve with upcoming updates.
 
-### Updates
 
-[Get more updates on Twitter](https://twitter.com/Vijish68859437)
-
-Mail me @ vijishmadhavan@gmail.com
 
 ### Acknowledgments
 
